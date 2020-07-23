@@ -1,2 +1,2 @@
 # twitley
-Python-based web application for an sentiment analysis of your posts on twitter.
+Python-based web application for an sentiment analysis for posts on twitter.
